@@ -10,3 +10,6 @@ Experienced Cosmos Ecosystem Validator.
 ---
 Supported networks at the moment:
 
+<div>
+  <img src="https://github.com/semio11111/semio11111/blob/main/db84b5afbf864ff097ba7e758293e5c2.png" title="lambda" alt="lambda" width="100" height="100"/>&nbsp;
+</div>
